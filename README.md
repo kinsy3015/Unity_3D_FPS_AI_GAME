@@ -1,3 +1,12 @@
+
+Asset_import link : https://drive.google.com/drive/folders/1vUsK6de9nxTrjO-47RJ7C_RJxf-nni2y?usp=sharing
+
+mono_edge : https://drive.google.com/drive/folders/11eR7_xNfSWpDsmKJ0UBDDjhTqx_HNSfF?usp=sharing
+
+Data : https://drive.google.com/drive/folders/1d48qTj8GTeRMyskB9ytzTpWvuxPRiKgK?usp=sharing
+
+
+
 본 프로젝트는 혼자서 진행했습니다.
 미천한 실력이지만 최선을 다해서 만들었습니다.
 
