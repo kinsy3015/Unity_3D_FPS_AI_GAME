@@ -12,25 +12,21 @@ public class EnemyController : MonoBehaviour {
 	Transform target;	
 	NavMeshAgent agent; 
 	CharacterCombat combat;
-
-
-
+	
 	public LayerMask whatIsGround, whatIsPlayer;
-
 	public float health;
 
-    //Patroling
-    public Vector3 walkPoint;
-    bool walkPointSet;
-    public float walkPointRange;
+    	//Patroling
+    	public Vector3 walkPoint;
+    	bool walkPointSet;
+    	public float walkPointRange;
 
-    //Attacking
-    public float timeBetweenAttacks;
-    bool alreadyAttacked;
-    public GameObject projectile;
-
+    	//Attacking
+    	public float timeBetweenAttacks;
+    	bool alreadyAttacked;
+    	public GameObject projectile;
 	public float sightRange, attackRange;
-    public bool playerInSightRange, playerInAttackRange;
+    	public bool playerInSightRange, playerInAttackRange;
 
 	void Start () {
 		agent = GetComponent<NavMeshAgent>();
