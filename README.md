@@ -6,10 +6,6 @@ mono_edge : https://drive.google.com/drive/folders/11eR7_xNfSWpDsmKJ0UBDDjhTqx_H
 Data : https://drive.google.com/drive/folders/1d48qTj8GTeRMyskB9ytzTpWvuxPRiKgK?usp=sharing
 
 
-
-본 프로젝트는 혼자서 진행했습니다.
-미천한 실력이지만 최선을 다해서 만들었습니다.
-
 Menu에서 PLAY버튼을 누르게되면 게임이 시작됩니다.
 
 시작시 방의 문은 boxtrigger설정을 해놔서 자동으로 열립니다.
@@ -24,4 +20,4 @@ Menu에서 PLAY버튼을 누르게되면 게임이 시작됩니다.
 ESC키를 누를경우 다시 Menu로 돌아가게되며 EXIT버튼을 클릭시 프로그램이 종료됩니다.
 
 Terrain의 경우 unity버전이 2020.2.1f1버전으로는 잘 import되었지만
-2019.4.17f1버전으로 는 import error가 발생했습니다.
+2019.4.17f1버전으로 는 import error가 발생합니다.
