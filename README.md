@@ -21,3 +21,7 @@ ESC키를 누를경우 다시 Menu로 돌아가게되며 EXIT버튼을 클릭시
 
 Terrain의 경우 unity버전이 2020.2.1f1버전으로는 잘 import되었지만
 2019.4.17f1버전으로 는 import error가 발생합니다.
+
+
+
+![fps10](https://github.com/kinsy3015/Unity_3D_FPS_AI_GAME/assets/62363841/bf91275d-ed08-4c13-97d9-0ae39ffe718e)
